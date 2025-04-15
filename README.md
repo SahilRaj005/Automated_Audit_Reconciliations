@@ -21,9 +21,5 @@ Auditors need to reconcile audit evidence to the object that they are auditing, 
 
 **Robotic Process Automation for the Extraction.pdf** is the paper based on the work that is done, which is submitted to the journal "Current Issues in Auditing" of the American Accounting Association.
 
-## Licensing, Authors, Acknowledgements <a name="licensing"></a>
-This work is performed by: Alaa Khzam, Wim Janssen, Tjibbe Bosman, Jeroen Bellinga, and Seyit Hocuk. Most of the coding is done by Wim Janssen and Alaa Khzam.
-
-We thank, Olof Bik, Arjan Brouwer, and Joris Roosen for their support, comments, and encouragement of this project.
 
 Feel free to use the code.
